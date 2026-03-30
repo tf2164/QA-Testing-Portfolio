@@ -30,7 +30,10 @@ More information available inside the project folders.
 
 ## QA_Project1 – Web Application Testing
 Description:
+Testing Approach:
 ## QA_Project2 – API Testing
 Description:
+Testing Approach:
 ## QA_Project3 – End-to-End Testing
 Description:
+Testing Approach:
